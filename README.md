@@ -2,7 +2,7 @@ Report to be presented to the company's board, and delivered to all the tech tea
 
 ## Table of Contents
 
-- Executive Summary:
+- Executive Summary
 - Password Re-Use Policy
 - Strong Passwords
 - Password Managers
