@@ -69,9 +69,9 @@ Incorporating these additional cybersecurity measures further strengthens our de
 
 Thank you for your continued support and commitment to cybersecurity. Should you have any further questions or require additional information, please feel free to reach out.
 
-Sincerely,
-Jim Sher 
-Cyber Security Manager
+Sincerely,  
+Jim Sher   
+Cyber Security Manager  
 
 
 ##Citations
