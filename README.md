@@ -74,7 +74,7 @@ Jim Sher
 Cyber Security Manager  
 
 
-##Citations
+## References
 [^1]: Microsoft (n.d.). Enforce Password History. Microsoft Learn. Retrieved March 20, 2024, from https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/security-policy-settings/enforce-password-history
 
 [^2]: Microsoft (n.d.). Minimum Password Length. Microsoft Learn. Retrieved March 20, 2024, from https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/security-policy-settings/minimum-password-length
