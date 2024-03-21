@@ -12,7 +12,7 @@ Report to be presented to the company's board, and delivered to all the tech tea
 - Secure Email with Personal Certificate
 - VPN IPSec on Laptops
 - Encrypted Hard and Flash Disks
-- More on Bitwarden[^4]
+- More on Bitwarden
 - Conclusion
 - References
 
