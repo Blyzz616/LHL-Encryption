@@ -1,10 +1,26 @@
 Report to be presented to the company's board, and delivered to all the tech teams.
 
+## Table of Contents
+
+- Executive Summary:
+- Password Re-Use Policy
+- Strong Passwords
+- Password Managers
+- Incorporating Compromised Password Databases
+- Password Expiration Policy
+- Multi-Factor Authentication
+- Secure Email with Personal Certificate
+- VPN IPSec on Laptops
+- Encrypted Hard and Flash Disks
+- More on Bitwarden[^4]
+- Conclusion
+- References
+
 ## Executive Summary:
 In today's world, it's crucial to keep our sensitive information safe and protect our employees. As the new Cyber Security Manager, I've reviewed our current security measures and come up with a solid plan to make them stronger. This report explains the important methods we'll use to keep our employees and company data secure.
 
 # Introduction
-In today's rapidly evolving digital landscape, ensuring robust cybersecurity measures is paramount to safeguarding sensitive information and protecting the integrity of our organization. As the newly appointed Cyber Security Manager, it is my responsibility to assess our current security posture and implement strategies to enhance our defenses against emerging cyber threats.  
+As the newly appointed Cyber Security Manager, it is my responsibility to assess our current security policies and posture, and implement strategies to enhance our defenses against emerging cyber threats.  
 This report outlines the comprehensive approach we will undertake to bolster our cybersecurity measures and protect our employees and company data from potential security breaches. By implementing a series of key techniques and approaches, we aim to fortify our security infrastructure and mitigate the risks associated with cyberattacks.  
 The following sections will delve into specific recommendations and best practices, including password policies, multi-factor authentication, encryption technologies, and proactive security measures. By adopting these strategies, we will strengthen our resilience against evolving threats and reinforce our commitment to maintaining the highest standards of cybersecurity across the organization.
 
@@ -70,7 +86,7 @@ VeraCrypt is a highly secure, free, and open-source disk encryption software tha
 > [!NOTE] 
 > Bitwarden's Duo is not the same as Cisco's Duo.
 
-## Conclusion:
+## Conclusion
 Incorporating these additional cybersecurity measures further strengthens our defense against evolving threats and reinforces our commitment to protecting our employees and company information. By implementing comprehensive password policies, leveraging password managers, and integrating compromised password databases, we can mitigate the risk of unauthorized access and enhance our overall security posture.
 
 Thank you for your continued support and commitment to cybersecurity. Should you have any further questions or require additional information, please feel free to reach out.
