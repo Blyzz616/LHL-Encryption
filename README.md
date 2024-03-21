@@ -62,8 +62,8 @@ VeraCrypt is a highly secure, free, and open-source disk encryption software tha
 **Directory Integration:** Streamline IT operations by automatically provisioning and de-provisioning user accounts throughout the entire employee lifecycle. Integrating Bitwarden with our directory services enables seamless user management, ensuring that access permissions are accurately maintained and updated.  
 **Secure Sharing:** Empower employees to securely share credentials and other sensitive data from anywhere, on any device. Bitwarden's secure sharing capabilities facilitate collaboration while maintaining the confidentiality and integrity of shared information, reducing the risk of data leaks or unauthorized access.  
 **Two-Step Login (2FA):** Enable and enforce organization-wide two-factor authentication with Duo MFA. Double down on security without compromising convenience. By implementing two-factor authentication (2FA) with Bitwarden, we add an extra layer of protection to user accounts, significantly reducing the risk of unauthorized access, even in the event of compromised credentials.  
-[!NOTE] 
-Bitwarden's Duo is not the same as Cisco's Duo.
+> [!NOTE] 
+> Bitwarden's Duo is not the same as Cisco's Duo.
 
 ## Conclusion:
 Incorporating these additional cybersecurity measures further strengthens our defense against evolving threats and reinforces our commitment to protecting our employees and company information. By implementing comprehensive password policies, leveraging password managers, and integrating compromised password databases, we can mitigate the risk of unauthorized access and enhance our overall security posture.
